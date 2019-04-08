@@ -1,6 +1,6 @@
 # Gogradle - a Full-featured Build Tool for Golang
 
-[中文文档](./README_CN.md)
+[中文文档](https://github.com/gogradle/gogradle/blob/master/README_CN.md)
 
 [![Build Status](https://travis-ci.org/gogradle/gogradle.svg?branch=master)](https://travis-ci.org/gogradle/gogradle)
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/gogradle/gogradle?branch=master&svg=true&passingText=windows%20build%20passing&failingText=windows%20build%20failing)](https://ci.appveyor.com/api/projects/status/github/gogradle/gogradle?branch=master&svg=true&passingText=windows%20build%20passing&failingText=windows%20build%20failing)
@@ -87,12 +87,12 @@ See [here](https://github.com/gogradle/samples) for examples.
 
 ## Table of Content
 
-- [Getting Started](./docs/getting-started.md)
-- [Dependency Management](./docs/dependency-management.md)
-- [Tasks in Gogradle](./docs/tasks.md)
-- [Repository Management](./docs/repository-management.md)
-- [Set Proxy For Build](./docs/proxy.md)
-- [IDE Integration](./docs/ide.md)
+- [Getting Started](https://github.com/gogradle/gogradle/blob/master/docs/getting-started.md)
+- [Dependency Management](https://github.com/gogradle/gogradle/blob/master/docs/dependency-management.md)
+- [Tasks in Gogradle](https://github.com/gogradle/gogradle/blob/master/docs/tasks.md)
+- [Repository Management](https://github.com/gogradle/gogradle/blob/master/docs/repository-management.md)
+- [Set Proxy For Build](https://github.com/gogradle/gogradle/blob/master/docs/proxy.md)
+- [IDE Integration](https://github.com/gogradle/gogradle/blob/master/docs/ide.md)
 
 Test report
 
